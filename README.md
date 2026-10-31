@@ -1,8 +1,8 @@
 # 🛡️🔐 Projeto: Ataques de Força Bruta com Medusa + Kali Linux
 
-Bootcamp Cloud Security – DIO / 2025 - Instrutora: Isadora Ferrão 
+Bootcamp ciberseguraça Santander – DIO / 2025 - Instrutora: Isadora Ferrão 
 
-Feito com 💖 por **Isis Lavor**.
+Feito com 💖 por **Isis Lavor**. repostado as foto são de kennedy anderson
 
 ---
 
